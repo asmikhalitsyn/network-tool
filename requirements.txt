@@ -1,0 +1,8 @@
+pydantic~=1.9.0
+typing~=3.7.4.3
+tabulate~=0.8.9
+python-dotenv~=0.19.2
+SQLAlchemy~=1.4.30
+scrapli~=2022.1.30.post1
+pynetbox~=6.5.0
+urllib3~=1.26.8
